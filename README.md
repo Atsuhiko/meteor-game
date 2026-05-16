@@ -1,5 +1,5 @@
 import と if name == "main" 教材：隕石避けゲーム
-この教材は、Python の `.py` ファイルが「モジュール」として import できること、そして直接実行されたときだけ `if \_\_name\_\_ == "\_\_main\_\_":` の中が実行されることを確認するための教材です。
+この教材は、Python の `.py` ファイルが「モジュール」として import できること、そして直接実行されたときだけ `if __name__ == "__main__":` の中が実行されることを確認するための教材です。
 セットアップ
 ```bash
 pip install -r requirements.txt
