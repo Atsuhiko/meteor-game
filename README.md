@@ -3,7 +3,7 @@ import と if name == "main" 教材：隕石避けゲーム
 セットアップ
 ```bash
 pip install -r requirements.txt
-cd meteor\_game
+cd meteor_game
 ```
 1. import されたときの `\_\_name\_\_` を確認
 ```bash
