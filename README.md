@@ -1,4 +1,4 @@
-import と if name == "main" 教材：隕石避けゲーム
+# import と if name == "main" 教材：隕石避けゲーム
 この教材は、Python の `.py` ファイルが「モジュール」として import できること、そして直接実行されたときだけ `if __name__ == "__main__":` の中が実行されることを確認するための教材です。
 セットアップ
 ```bash
